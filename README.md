@@ -5,3 +5,6 @@
 [3-index.html](https://github.com/user-attachments/files/23467680/3-index.html)
 [2-index.html](https://github.com/user-attachments/files/23467679/2-index.html)
 [1-index.html](https://github.com/user-attachments/files/23467678/1-index.html)
+
+0x02-tailwind-css
+0x03-sass_scss
