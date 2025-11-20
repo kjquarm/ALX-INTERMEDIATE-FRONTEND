@@ -1,12 +1,8 @@
-{
-  "compilerOptions": {
-    "outDir": "./dist/",
-    "sourceMap": true,
-    "noImplicitAny": true,
-    "module": "es6",
-    "target": "es5",
-    "allowJs": true,
-    "moduleResolution": "node",
-        "skipLibCheck": true
-  }
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./src/**/*.{html,ts,js}"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
 }
